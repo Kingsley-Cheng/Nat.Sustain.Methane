@@ -58,3 +58,6 @@ The methane emissions data we used are provided by EDGAR. You could download by 
 The code is used to calculate some input-output coefficients like direct input coefficients and direct emission coefficients, apply DFM methods to identify key emissions pathways and conduct other analysis in the manuscript. The salary data and proportion data we used in the code are provided by World Bank Open Data. You could download by [https://data.worldbank.org].
 #### Plot.R
 This code is used to plot maps like below.
+![map.png](map.png)
+### License
+This project is covered under the MIT License.
